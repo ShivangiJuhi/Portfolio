@@ -7,7 +7,24 @@
   text-decoration: none;
   scroll-behavior: smooth;
 }
+a:link {
+      color: red;
+}
 
+/* visited link */
+  a:visited {
+color: green;
+}
+
+/* mouse over link */
+a:hover {
+  color: hotpink;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
     width: 10px;
