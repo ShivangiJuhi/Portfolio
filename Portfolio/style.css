@@ -8,22 +8,22 @@
   scroll-behavior: smooth;
 }
 a:link {
-      color: red;
+      color: rgb(31, 4, 155);
 }
 
 /* visited link */
   a:visited {
-color: green;
+color: rgb(3, 28, 110);
 }
 
 /* mouse over link */
 a:hover {
-  color: hotpink;
+  color: rgb(206, 255, 255);
 }
 
 /* selected link */
 a:active {
-  color: blue;
+  color: rgb(118, 200, 255);
 }
 /* Custom Scroll Bar CSS */
 ::-webkit-scrollbar {
