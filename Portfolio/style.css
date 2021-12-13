@@ -18,7 +18,7 @@ color: rgb(3, 28, 110);
 
 /* mouse over link */
 a:hover {
-  color: rgb(206, 255, 255);
+  color: rgb(116, 234, 250);
 }
 
 /* selected link */
@@ -264,7 +264,7 @@ section .button button{
   font-size: 25px;
   font-weight: 400;
   background: #4070f4;
-  color: #fff;
+  color: rgb(255, 255, 255);
   border: 2px solid transparent;
   cursor: pointer;
   transition: all 0.4s ease;
